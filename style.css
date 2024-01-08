@@ -354,6 +354,13 @@ body {
     justify-content: space-between;
 }
 
+.gift .gift-img:hover{
+    border-radius: 16px;
+    box-shadow: 10px 10px 5px gray;
+    height: 465px;
+    width: 439px;
+}
+
 /* gift part end here. */
 /* subscribe part start from here. */
 .subscribe {
